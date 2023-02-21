@@ -6,7 +6,7 @@
   flex-wrap: wrap;
   padding: 3rem;
   min-height: 100vh;
-  background-color: #08415C;
+  background-color: var(--background-color);
   background: cover;
 
 }
