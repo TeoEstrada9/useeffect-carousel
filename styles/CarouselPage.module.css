@@ -1,0 +1,47 @@
+/* Flex or grid on stylizing the pages !!  */
+
+.titleLink {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+    margin-left: 44.5em;
+    color: var(--text-color);
+    position: relative;
+    top: 3em;
+}
+.titleLink:hover {
+    color: var(--hover-color);
+    font-weight: bold;
+    cursor: pointer;
+}
+.schoolTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3em;
+    text-align: center;
+    color: var(--text-color);
+}
+.main {
+    background-color: var(--background-color);
+    min-height: 100vh;
+}
+.ourSchool {
+    text-align: center;
+    color: var(--text-color);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+.joinButton {
+    border: none;
+    padding: 1.5em 3em;
+    border-radius: 50px;
+    background-color: #596475;
+    color: white;
+    margin-left: 49.5em;
+    margin-top: 2em;
+    cursor: pointer;
+}
+.joinButton:hover {
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+}

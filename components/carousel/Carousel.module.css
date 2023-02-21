@@ -1,0 +1,26 @@
+/* Add styles to this page */
+
+.images {
+    margin-left: 30em;
+    margin-top: 11em;
+}
+
+.leftArrow, .rightArrow {
+   position: relative;
+   top: 120px;
+   cursor: pointer;
+}
+.rightArrow {
+    left: 400px;   
+}
+
+.gradHat {
+    position: relative;
+    right: 34em;
+    bottom: 11em;
+}
+.menuBar {
+    position: relative;
+    left: 48em;
+    bottom: 11em;
+}
